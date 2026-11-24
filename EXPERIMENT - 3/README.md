@@ -34,7 +34,7 @@ approaches to image segmentation.
 4. Region-growing threshold = 0.62
 5. Seed point = (165, 110)
 
-## INPUT:
+## OUTPUT:
 ## FIGURE 1 - ORIGINAL IMAGE
 <img width="822" height="556" alt="image" src="https://github.com/user-attachments/assets/6541a0db-66b5-468c-a116-5038b1db343d" />
 
